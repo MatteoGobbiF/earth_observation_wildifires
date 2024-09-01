@@ -5,7 +5,7 @@ This project was developed as part of the research on wildfire impact assessment
 ## [Analyze_fire_duration](https://code.earthengine.google.com/955028071f16b7a98b7b77d205e314b5)
 This script is designed to analyze the change in the differenced Normalized Burn Ratio (dNBR) over various time intervals following the start of a wildfire. The goal is to determine the optimal post-fire image acquisition window for accurate burn severity analysis. By analyzing how dNBR changes over time, the script helps in selecting the best time frame to perform the detailed analysis.
 
-## [main](https://code.earthengine.google.com/b0f7c08462f296da2155cbecd5f6d286)
+## [main](https://code.earthengine.google.com/6e7ba7b013101f7c4c4de4e2d3f37bff)
 This script performs a comprehensive analysis of wildfire impact, including the training of Random Forest (RF) and Support Vector Machine (SVM) models. The analysis includes:
 - Computing the dNBR and dNBR+ indices to identify burned areas.
 - Training RF and SVM classifiers based on the post-fire imagery.
